@@ -1,4 +1,4 @@
-# ThreadSchedule
+# Thread Round Robin Scheduler Project
 
 ## 과제 소개
 Pthread Library를 이용하여 유저 레벨에서 Round Robin 기반 스레드 스케줄링 및 Pthread Wrapper API 구현한다.
